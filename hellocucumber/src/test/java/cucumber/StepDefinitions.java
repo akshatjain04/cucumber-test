@@ -1,5 +1,5 @@
 
-package hellocucumber;
+package cucumber;
 
 import org.junit.jupiter.api.Assertions;
 import io.cucumber.java.en.Given;
